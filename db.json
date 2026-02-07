@@ -1,0 +1,20 @@
+{
+  "7950269635": {
+    "username": "admin_5271359283",
+    "role": "owner",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2024-01-01",
+    "usageCount": 0
+  },
+  "1930326151": {
+    "username": "premium_user",
+    "role": "premium",
+    "premiumUntil": "2024-12-31 23:59:59",
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2024-01-01",
+    "usageCount": 5
+  }
+}
