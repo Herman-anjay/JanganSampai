@@ -8,13 +8,85 @@
     "joinDate": "2024-01-01",
     "usageCount": 0
   },
-  "1930326151": {
-    "username": "premium_user",
+  "6584402603": {
+    "username": "DSAS07",
     "role": "premium",
-    "premiumUntil": "2024-12-31 23:59:59",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "1930326151": {
+    "username": "yudasdev",
+    "role": "premium",
+    "premiumUntil": null,
     "limit": 999,
     "lastReset": "2024-01-01",
     "joinDate": "2024-01-01",
-    "usageCount": 5
+    "usageCount": 0
+  },
+  "6472897132": {
+    "username": "nom4d10",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "8593395207": {
+    "username": "salinbin",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "8014240970": {
+    "username": "ioxiiiiiiii",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "8296119457": {
+    "username": "dishubjogja",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "7530736321": {
+    "username": "mrbatangku",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "7108434350": {
+    "username": "Seatraash",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
+  },
+  "5914981682": {
+    "username": "warga_benk",
+    "role": "premium",
+    "premiumUntil": null,
+    "limit": 999,
+    "lastReset": "2024-01-01",
+    "joinDate": "2025-01-01",
+    "usageCount": 0
   }
 }
